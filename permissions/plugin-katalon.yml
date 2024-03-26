@@ -8,5 +8,7 @@ paths:
 developers:
   - "duyluonganh"
   - "hainguyenkatalon"
+  - "thvu-katalon"
+  - "nghiadhd-2702"
 cd:
   enabled: true
